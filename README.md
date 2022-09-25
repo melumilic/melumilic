@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- I'm Jack and I am interested in app development with Flask and Angular
 
 ### About Me
 - I'm a UCLA student majoring in Business Economics and minoring in Accounting.
