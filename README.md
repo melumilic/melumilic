@@ -4,7 +4,8 @@
 ### About Me
 - I'm a UCLA student majoring in Business Economics and minoring in Accounting.
 - I'm working on a restaurant recommendation app in Flask
-- currently learning Docker and improving my python skills
+- Currently learning Docker and improving my python skills
+- Also working on improving my graphic design skills
 - 📫 How to reach me: caramelchocolateapple@gmail.com
 
 ### Figma Projects
