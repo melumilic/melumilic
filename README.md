@@ -1,8 +1,7 @@
 ### Hi there 👋
-- I'm Jack and I am interested in app development with Flask and Angular
+- I'm Jack and I am interested in app development
 
 ### About Me
-- I'm a UCLA student majoring in Business Economics and minoring in Accounting.
 - I'm working on a restaurant recommendation app in Flask
 - Currently learning Docker and improving my python skills
 - Also working on improving my graphic design skills
