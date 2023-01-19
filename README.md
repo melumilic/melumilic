@@ -1,16 +1,16 @@
 ### Hi there 👋
-- I'm Jack and I am interested in app development
+- I'm Jack and I am currently interested in Android development
 
 ### About Me
-- I'm working on a restaurant recommendation app in Flask
-- Currently learning Docker and improving my python skills
+- Currently learning Android Studio
 - Also working on improving my graphic design skills
 - 📫 How to reach me: caramelchocolateapple@gmail.com
 
 ### Figma Projects
-- <a href="https://www.figma.com/proto/FXeYXfAnWn3qM5LzSDE3Nz/Herb?scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A22&show-proto-sidebar=1&node-id=1%3A22" title="Imperial Herb (2021)">Herb</a>
-- <a href="https://www.figma.com/proto/aq8wPJDXtP5lmMsiq3ywUj/Music_Project?node-id=2886%3A26584&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2886%3A26370&show-proto-sidebar=1" title="Meusic (Spring 2022)">Meusic</a>
-- <a href="https://www.figma.com/proto/h3XDu863iXwOsfj3ztQ2tg/Canvas?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2" title="Canvas Clone (Fall 2022)">Canvas Clone</a>
+- <a href="https://www.figma.com/proto/FXeYXfAnWn3qM5LzSDE3Nz/Herb?scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A22&show-proto-sidebar=1&node-id=1%3A22" title="Imperial Herb (2021)">Herb (2021)</a>
+- <a href="https://www.figma.com/proto/aq8wPJDXtP5lmMsiq3ywUj/Music_Project?node-id=2886%3A26584&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2886%3A26370&show-proto-sidebar=1" title="Meusic (Spring 2022)">Meusic (Spring 2022)</a>
+- <a href="https://www.figma.com/proto/h3XDu863iXwOsfj3ztQ2tg/Canvas?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2" title="Canvas Clone (Fall 2022)">Canvas Clone (Fall 2022)</a>
+- <a href="https://www.figma.com/proto/DLHS8TXDpsJ4idlAfGr9Xf/Flight-Tracker?page-id=0%3A1&node-id=1%3A825&viewport=775%2C388%2C0.76&scaling=scale-down&starting-point-node-id=1%3A825" title="Flack - Flight Tracker (Winter 2023)">Flack-Flight Tracker (Winter 2023)</a>
 
 
 # GitHub Stats
