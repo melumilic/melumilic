@@ -1,10 +1,6 @@
 ### Hi there 👋
-- I'm Jack and I am currently interested in Android development
+- Getting back into Unity
 
-### About Me
-- Currently learning Android Studio
-- Also working on improving my graphic design skills
-- 📫 How to reach me: caramelchocolateapple@gmail.com
 
 ### Figma Projects
 - <a href="https://www.figma.com/proto/FXeYXfAnWn3qM5LzSDE3Nz/Herb?scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A22&show-proto-sidebar=1&node-id=1%3A22" title="Imperial Herb (2021)">Herb (2021)</a>
